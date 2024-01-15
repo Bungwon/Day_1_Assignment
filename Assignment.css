@@ -54,3 +54,30 @@
     color: red;
     font-size: 10px;
 }
+.section0{
+    height: 30px;
+    display: flex;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: inset 1px 1px 3px 0px #8080805e;
+    font-size: 10px;
+    padding-left: 7px;
+}
+.section1{
+    height: 550px;
+    background-image: url(./brandshop/images/section1-image.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.section1 h1{
+    align-items: center;
+    width: 450px;
+    font-size: 43px;
+    text-align: center;
+    margin-top: 300px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #fff;
+}
