@@ -261,3 +261,54 @@
     background-size: contain;
     background-position: left;
 }
+.section10{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 450px;
+}
+.caption10{
+    height: 50%;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.img10{
+    width: 50%;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    background-image: url(./images/section8-image.jpg);
+}
+.sect11{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin: 40px;
+}
+.sect11 div{
+    align-items: center;
+    box-shadow: inset 1px 1px 3px 0px gray;
+}
+.search{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+}
+.search input{
+    margin: 5px;
+    width: 300px;
+    cursor: text;
+    font-size: 10px;
+}
+.search h3{
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.map{
+    width: 55%;
+}
