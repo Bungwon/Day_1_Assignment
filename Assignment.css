@@ -107,3 +107,23 @@
 .caption h1{
     line-height: 0.3;
 }
+.section3{
+    height: 600px;
+    background-image: url(./brandshop/images/section2-image.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+}
+.caption2{
+    margin-bottom: 50px;
+    justify-content: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.caption2 h1{
+    width: 90%;
+    font-size: 40px;
+    text-align: center;
+}
