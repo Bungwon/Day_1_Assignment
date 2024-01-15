@@ -312,3 +312,46 @@
 .map{
     width: 55%;
 }
+.sect12{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 900px;
+    box-shadow: inset 1px 1px 3px 0px #8080805e;
+}
+.img12{
+    height: 60px;
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+}
+.img12 div{
+    width: 12%;
+    height: 12%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.img12 h1{
+    font-size: 15px;
+    text-align: center;
+}
+.countries{
+    font-size: 12px;
+    list-style-type: none;
+    color: gray;
+    width: 200px;
+    text-align: center;
+}
+.img12 p{
+    width: 300px;
+    font-size: 12px;
+    text-align: center;
+    text-decoration: underline;
+    cursor: pointer;
+    color: gray;
+}
+.CEO h1{
+    width: 200px;
+    margin-bottom: 30px;
+}
