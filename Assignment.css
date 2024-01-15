@@ -81,3 +81,29 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: #fff;
 }
+.section2{
+    height: 200px;
+    display: flex;
+    background-color: rgb(48, 44, 44);
+    color: #fff;
+}
+.note{
+    font-size: 10px;
+}
+.caption{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 70%;
+    margin-top: 80px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.caption p{
+    width: 61%;
+    font-size: 13px;
+}
+.caption h1{
+    line-height: 0.3;
+}
